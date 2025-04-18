@@ -39,10 +39,34 @@ ScrollReveal.js
 Swiper.js for interactive testimonials.
 
 
+📌 Future Enhancements
+Dark mode support 🌙
+
+CMS integration (like Strapi/Contentful)
+
+Full responsiveness testing across devices
+
+Contact form with validation and backend integration
+
+Deployment setup with GitHub Pages / Netlify
+
+📬 Contact
+For collaborations or inquiries:
+
+📧 akash21.rajkumar@gmail.com
+
+🌐 LinkedIn : https://www.linkedin.com/in/akash21r/
+
+⭐️ Don't forget to star this repository if you like it!
+
+
 Website Overview:
 
 
 ![screencapture-127-0-0-1-5501-index-html-2025-03-20-00_28_26](https://github.com/user-attachments/assets/57060870-cdba-450e-9ba5-7fbe8bb05d0e)
+
+
+
 
 
 
