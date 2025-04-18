@@ -36,4 +36,13 @@ Google Fonts
 
 ScrollReveal.js
 
-Swiper.js for interactive testimonials
+Swiper.js for interactive testimonials.
+
+
+Website Overview:
+
+
+![screencapture-127-0-0-1-5501-index-html-2025-03-20-00_28_26](https://github.com/user-attachments/assets/57060870-cdba-450e-9ba5-7fbe8bb05d0e)
+
+
+
